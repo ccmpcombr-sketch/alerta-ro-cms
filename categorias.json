@@ -1,0 +1,6 @@
+[
+  { "id": "politica", "nome": "Política" },
+  { "id": "policia", "nome": "Polícia" },
+  { "id": "cidade", "nome": "Cidade" },
+  { "id": "esportes", "nome": "Esportes" }
+]
