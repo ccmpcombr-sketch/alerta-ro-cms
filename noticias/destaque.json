@@ -1,10 +1,11 @@
 {
   "titulo": "Notícia de exemplo",
   "data": "09/01/2026",
-  "imagem": ""https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Sua%20Propaganda%20Aqui.jpe",
+  "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Sua%20Propaganda%20Aqui.jpe",
   "conteudo": "Conteúdo da notícia",
   "autor": {
     "nome": "Adriano Barros",
-    "foto": ""https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Sua%20Propaganda%20Aqui.jpe"
+    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Sua%20Propaganda%20Aqui.jpe"
   }
 }
+
