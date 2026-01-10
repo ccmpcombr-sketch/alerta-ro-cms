@@ -1,11 +1,15 @@
-{
-  "titulo": "Deputado anuncia novos investimentos",
-  "data": "09/01/2026",
-  "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Sua%20Propaganda%20Aqui.jpeg",
-  "resumo": "Recursos serão aplicados na saúde e infraestrutura.",
-  "conteudo": "Texto completo da matéria aqui...",
-  "autor": {
-    "nome": "João Silva",
-    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Sua%20Propaganda%20Aqui.jpeg"
+[
+  {
+    "titulo": "Deputado anuncia novos investimentos",
+    "data": "09/01/2026",
+    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Sua%20Propaganda%20Aqui.jpeg",
+    "resumo": "Recursos serão aplicados na saúde e infraestrutura.",
+    "conteudo": "Texto completo da matéria aqui...",
+    "autor": {
+      "nome": "João Silva",
+      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Sua%20Propaganda%20Aqui.jpeg"
+    }
   }
-}
+]
+
+
