@@ -1,5 +1,0 @@
-mkdir config
-mkdir anuncios
-git add .
-git commit -m "Adiciona pastas de configuração e anúncios"
-git push
