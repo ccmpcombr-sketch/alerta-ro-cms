@@ -4,7 +4,7 @@
     "data": "10/09/08",
     "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/destaque/Mat%C3%A9rias%2001.jpg",
     "resumo": "Estamos Fazendo Um Teste Para Ver Como Esta",
-    "conteudo": "Estamos Fazendo Um Teste Para Ver Como Esta",
+    "conteudo":  "Estamos Fazendo Um Teste Para Ver Como Esta",
     "autor": {
       "nome": "Adriano Barros",
       "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
@@ -15,7 +15,7 @@
     "data": "10/09/08",
     "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/destaque/Mat%C3%A9rias%2002.jpg",
     "resumo": "Estamos Fazendo Um Teste Para Ver Como Esta",
-    "conteudo": "Estamos Fazendo Um Teste Para Ver Como Esta",
+    "conteudo":  "Estamos Fazendo Um Teste Para Ver Como Esta",
     "autor": {
       "nome": " Adriano Barros",
       "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
@@ -26,7 +26,7 @@
     "data": "10/09/08",
     "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/destaque/Mat%C3%A9rias%2003.jpg",
     "resumo": "Estamos Fazendo Um Teste Para Ver Como Esta",
-    "conteudo": "Estamos Fazendo Um Teste Para Ver Como Esta",
+    "conteudo":  "Estamos Fazendo Um Teste Para Ver Como Esta",
     "autor": {
       "nome": "Adriano Barros",
       "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
@@ -37,7 +37,7 @@
     "data": "10/09/08",
     "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/destaque/Mat%C3%A9rias%2004.jpg",
     "resumo": "Estamos Fazendo Um Teste Para Ver Como Esta",
-    "conteudo": "Estamos Fazendo Um Teste Para Ver Como Esta",
+    "conteudo":  "Estamos Fazendo Um Teste Para Ver Como Esta",
     "autor": {
       "nome": "Adriano Barros",
       "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
@@ -48,10 +48,11 @@
     "data": "10/09/08",
     "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/destaque/Mat%C3%A9rias%2005.jpg",
     "resumo": "Estamos Fazendo Um Teste Para Ver Como Esta",
-    "conteudo": "Estamos Fazendo Um Teste Para Ver Como Esta",
+    "conteudo":  "Estamos Fazendo Um Teste Para Ver Como Esta",
     "autor": {
       "nome": "Adriano Barros",
       "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
     }
   }
 ]
+
