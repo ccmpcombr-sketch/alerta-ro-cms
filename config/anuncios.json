@@ -1,22 +1,23 @@
 [
   {
-    "imagem": "https://raw.githubusercontent.com/.../anuncio1.jpg",
-    "link": "https://site-do-anunciante.com"
+    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/anuncios/Anuncio%2001.jpg",
+    "link": "https://www.facebook.com/AdrianoBarrosOficial/"
   },
   {
-    "imagem": "https://raw.githubusercontent.com/.../anuncio1.jpg",
-    "link": "https://site-do-anunciante.com"
+    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/anuncios/Anuncio%2002.jpg",
+    "link": "https://www.instagram.com/tvccmp/"
   },
   {
-    "imagem": "https://raw.githubusercontent.com/.../anuncio1.jpg",
-    "link": "https://site-do-anunciante.com"
+    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/anuncios/Anuncio%2003.jpg",
+    "link": "https://www.facebook.com/AdrianoBarrosOficial/"
   },
   {
-    "imagem": "https://raw.githubusercontent.com/.../anuncio1.jpg",
-    "link": "https://site-do-anunciante.com"
+    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/anuncios/Anuncio%2004.jpg",
+    "link": "https://www.instagram.com/tvccmp/"
   },
   {
-    "imagem": "https://raw.githubusercontent.com/.../anuncio2.jpg",
-    "link": "https://outro-site.com"
+    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/anuncios/Anuncio%2005.jpg
+",
+    "link": "https://www.facebook.com/AdrianoBarrosOficial/"
   }
 ]
