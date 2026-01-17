@@ -1,1 +1,13 @@
-
+[
+  {
+    "titulo": "Helicóptero cai e deixa três pessoas mortas no RJ",
+    "data": "17/01/2026",
+    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/policia/aviao.webp",
+    "resumo": "Acidente aconteceu na manhã deste sábado, 17. Corpos ainda não foram identificados\nHelicóptero caiu na manhã deste sábado, 17, em Guaratiba, Zona Oeste do RJ, deixando três mortos; vítimas ainda não identificadas.",
+    "conteudo": "Uma aeronave caiu em Guaratiba, na Zona Oeste do Rio de Janeiro, na manhã deste sábado, 17, e deixou três pessoas mortas.\nOSegundo informações passadas pela corporação à reportagem do Terra, o helicóptero caiu em uma área de mata fechada, na altura da Avenida Levy Neves, esquina com Rua Tasso da Silveira.\nOs corpos das vítimas ainda não foram identificados. Corpo de Bombeiros de Guaratiba foi acionado por volta de 9h55 para verificar a ocorrência.",
+    "autor": {
+      "nome": "Adriano Barros",
+      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
+    }
+  }
+]
