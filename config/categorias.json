@@ -1,0 +1,6 @@
+[
+  { "id": "dst", "nome": "Inicio" },
+  { "id": "plc", "nome": "Polícia" },
+  { "id": "pltc", "nome": "Política" },
+  { "id": "spts", "nome": "Esportes" }
+]
