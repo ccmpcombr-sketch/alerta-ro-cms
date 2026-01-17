@@ -1,6 +1,6 @@
 [
-  { "id": "dst", "nome": "Inicio" },
-  { "id": "plc", "nome": "Polícia" },
-  { "id": "pltc", "nome": "Política" },
-  { "id": "spts", "nome": "Esportes" }
+  { "id": "politica", "nome": "Política" },
+  { "id": "policia", "nome": "Polícia" },
+  { "id": "cidade", "nome": "Cidade" },
+  { "id": "esportes", "nome": "Esportes" }
 ]
