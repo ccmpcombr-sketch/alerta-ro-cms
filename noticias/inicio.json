@@ -1,58 +1,12 @@
-[
-  {
-    "titulo": "Estamos Fazendo Um Teste",
-    "data": "10/09/08",
-    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/destaque/Mat%C3%A9rias%2001.jpg",
-    "resumo": "Estamos Fazendo Um Teste Para Ver Como Esta",
-    "conteudo": "Estamos Fazendo Um Teste Para Ver Como Esta",
-    "autor": {
-      "nome": "Adriano Barros",
-      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
-    }
-  },
-  {
-    "titulo": "Estamos Fazendo Um Teste",
-    "data": "10/09/08",
-    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/destaque/Mat%C3%A9rias%2002.jpg",
-    "resumo": "Estamos Fazendo Um Teste Para Ver Como Esta",
-    "conteudo": "Estamos Fazendo Um Teste Para Ver Como Esta",
-    "autor": {
-      "nome": " Adriano Barros",
-      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
-    }
-  },
-  {
-    "titulo": "Estamos Fazendo Um Teste",
-    "data": "10/09/08",
-    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/destaque/Mat%C3%A9rias%2003.jpg",
-    "resumo": "Estamos Fazendo Um Teste Para Ver Como Esta",
-    "conteudo": "Estamos Fazendo Um Teste Para Ver Como Esta",
-    "autor": {
-      "nome": "Adriano Barros",
-      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
-    }
-  },
-  {
-    "titulo": "Estamos Fazendo Um Teste",
-    "data": "10/09/08",
-    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/destaque/Mat%C3%A9rias%2004.jpg",
-    "resumo": "Estamos Fazendo Um Teste Para Ver Como Esta",
-    "conteudo": "Estamos Fazendo Um Teste Para Ver Como Esta",
-    "autor": {
-      "nome": "Adriano Barros",
-      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
-    }
-  },
-  {
-    "titulo": "Estamos Fazendo Um Teste",
-    "data": "10/09/08",
-    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/destaque/Mat%C3%A9rias%2005.jpg",
-    "resumo": "Estamos Fazendo Um Teste Para Ver Como Esta",
-    "conteudo": "Estamos Fazendo Um Teste Para Ver Como Esta",
+{
+    "titulo": "Programa de Erick Jacquin, Pesadelo na Cozinha pinta casarão tombado sem autorização",
+    "data": "16/01,q2026",
+    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/destaque/jacquin.webp",
+    "resumo": "Programa do chef de cozinha é exibido na Band e no serviço de streaming HBO Max",
+    "conteudo": "A equipe do programa Pesadelo na Cozinha, apresentado por Erick Jacquin na Band e na HBO Max, pintou sem autorização dos órgãos responsáveis a fachada de um casarão em Belo Horizonte tombado pelo patrimônio histórico. No local, funciona o Café Cultura Bar, que será tema de um episódio do reality show.\nNo programa, Jacquin visita estabelecimentos gastronômicos que estão passando por dificuldades e fornece ajuda para o negócio se recuperar, como dicas de administração, de cozinha e também reformas. Foi nesse processo que a fachada foi pintada sem a devida autorização, conforme a prefeitura de Belo Horizonte confirmou ao Alerta RO.\nEm nota oficial, a prefeitura informou que alterações em fachadas de imóveis protegidos pelo patrimônio público, como o do casarão datado da virada do século 19 para o 20, devem passar por um procedimento específico, que inclui a solicitação prévia de autorização e a análise técnica das intervenções, o que não foi feito no caso da obra do Café Cultura.\nPor conta disso, a Diretoria do Patrimônio Cultural realizou na última quinta-feira, 15, uma vistoria para avaliar a pintura e definir medidas cabíveis. A prefeitura de BH também informou que \"o proprietário do bem cultural será notificado em função da intervenção sem prévia autorização e serão definidas as intervenções necessárias para reverter qualquer descaracterização promovida.\"\nA obra no café faz parte de um dos episódios da quinta temporada de Pesadelo na Cozinha, que estreia em fevereiro. A reportagem procurou a Band e a HBO Max, que ainda não se manifestaram sobre o ocorrido.",
     "autor": {
       "nome": "Adriano Barros",
       "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
     }
   }
 ]
-
