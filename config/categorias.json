@@ -1,8 +1,9 @@
 [
-  { "id": "Inicio", "nome": "Inicio" },
+  { "id": "Destaque", "nome": "Inicio" },
   { "id": "Policia", "nome": "Polícia" },
   { "id": "Política", "nome": "Política" },
   { "id": "Esportes", "nome": "Esportes" }
 ]
+
 
 
