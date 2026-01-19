@@ -1,5 +1,25 @@
 [
- {
+  {
+    "titulo": "Marcus D'Almeida é bronze em etapa do mundial de tiro com arco indoor",
+    "data": "18/01/2026",
+    "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/esportes/marcus_dalmeida_tiro_com_arco.webp",
+    "imagens": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/esportes/marcus_dalmeida_tiro_com_arco.webp",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/esportes/marcus_dalmeida_tiro_com_arco.webp"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=6jaZgHSiMrc",
+      "https://ia601700.us.archive.org/16/items/1118-1-19/1118%20%281%29%2819%29.mp4",
+      "https://drive.google.com/file/d/1q8zr8_9TWBHTzJLZL_n8yZLHEEx4R0WU/preview"
+    ],
+    "resumo": "Brasileiro derrotou francês Alexandre Desemery neste domingo",
+    "conteudo": "O brasileiro Marcus D’Almeida conquistou a medalha de bronze na primeira Etapa 1000 da Copa do Mundo de Tiro com Arco Indoor, realizada em Nîmes (França). D'almeida derrotou o francês Alexandre Desemery por 7 a 3 neste domingo (18).\n\nEle acabou sendo eliminado do caminho do ouro na semifinal pelo espanhol Andrés Mediel Temiño, por 6 a 4.\n\nDurante a campanha neste torneio, concluída com a primeira conquista dele no ano, o atleta bateu o recorde brasileiro.\nOs 596 pontos deram ao brasileiro também a posição de cabeça de chave número 1.",
+    "autor": {
+      "nome": "Adriano Barros",
+      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
+    }
+  },
+  {
     "titulo": "Cristian Ribeira conquista mais um ouro na Alemanha",
     "data": "17/01/2026",
     "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/esportes/esquiador.webp",
