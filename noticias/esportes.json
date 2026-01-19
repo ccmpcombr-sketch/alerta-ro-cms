@@ -2,11 +2,11 @@
   {
     "titulo": "Marcus D'Almeida é bronze em etapa do mundial de tiro com arco indoor",
     "data": "18/01/2026",
+    "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/esportes/marcus_dalmeida_tiro_com_arco.webp",
     "imagens": [
       "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/esportes/marcus_dalmeida_tiro_com_arco.webp",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/esportes/marcus_dalmeida_tiro_com_arco.webp"
     ],
-     "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/esportes/marcus_dalmeida_tiro_com_arco.webp",
     "videos": [
       "https://www.youtube.com/watch?v=6jaZgHSiMrc",
       "https://ia601700.us.archive.org/16/items/1118-1-19/1118%20%281%29%2819%29.mp4",
@@ -18,17 +18,5 @@
       "nome": "Adriano Barros",
       "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
     }
-  },
-  {
-    "titulo": "Cristian Ribeira conquista mais um ouro na Alemanha",
-    "data": "17/01/2026",
-    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/esportes/esquiador.webp",
-    "resumo": "O esquiador rondoniense Cristian Ribera conquistou a medalha de ouro na prova de sprint de 1quilômetro (km) dentro da segunda etapa da temporada de inverno da Copa do Mundo de esqui cross-country, disputada em Finsterau, na Alemanha.",
-    "conteudo": "A vitória deste sábado (17) foi a segunda do brasileiro em três dias de competição. O esquiador paralímpico rondoniense já havia levado o ouro da etapa na quinta-feira (15), ao vencer a prova dos 10 km com largada em massa (mass start).\n\nA vitória de hoje veio com o tempo de 2min55s74. A prata ficou com o cazaque Yerbol Khamitov, que marcou 2min56s13, enquanto o bronze foi do chinês Zhongwu Mao, com 2min58s73.\n\nGuilherme Rocha e Robelson Lula também disputaram a prova finalizando na 23ª e 29ª colocações, respectivamente. No feminino, a paranaense Aline Rocha encerrou a final na quinta colocação. ",
-    "autor": {
-      "nome": "Adriano Barros",
-      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
-    }
   }
 ]
-
