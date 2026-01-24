@@ -1,16 +1,21 @@
 [
- {
-    "titulo": "Programa de Erick Jacquin, Pesadelo na Cozinha pinta casarão tombado sem autorização",
-    "data": "16/01/2026",
-    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/destaque/jacquin.webp",
-    "resumo": "Programa do chef de cozinha é exibido na Band e no serviço de streaming HBO Max",
-    "conteudo": "A equipe do programa Pesadelo na Cozinha, apresentado por Erick Jacquin na Band e na HBO Max, pintou sem autorização dos órgãos responsáveis a fachada de um casarão em Belo Horizonte tombado pelo patrimônio histórico. No local, funciona o Café Cultura Bar, que será tema de um episódio do reality show.\nNo programa, Jacquin visita estabelecimentos gastronômicos que estão passando por dificuldades e fornece ajuda para o negócio se recuperar, como dicas de administração, de cozinha e também reformas. Foi nesse processo que a fachada foi pintada sem a devida autorização, conforme a prefeitura de Belo Horizonte confirmou ao Alerta RO.\nEm nota oficial, a prefeitura informou que alterações em fachadas de imóveis protegidos pelo patrimônio público, como o do casarão datado da virada do século 19 para o 20, devem passar por um procedimento específico, que inclui a solicitação prévia de autorização e a análise técnica das intervenções, o que não foi feito no caso da obra do Café Cultura.\nPor conta disso, a Diretoria do Patrimônio Cultural realizou na última quinta-feira, 15, uma vistoria para avaliar a pintura e definir medidas cabíveis. A prefeitura de BH também informou que \"o proprietário do bem cultural será notificado em função da intervenção sem prévia autorização e serão definidas as intervenções necessárias para reverter qualquer descaracterização promovida.\"\nA obra no café faz parte de um dos episódios da quinta temporada de Pesadelo na Cozinha, que estreia em fevereiro. A reportagem procurou a Band e a HBO Max, que ainda não se manifestaram sobre o ocorrido.",
+  {
+    "titulo": "Governo de Rondônia reforça alerta sobre riscos de leptospirose em áreas alagadas",
+    "data": "24/01/2026",
+    "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/politica/leptospirose.jpg",
+    "imagens": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/politica/leptospirose.jpg"
+    ],
+    "videos": [],
+    "resumo": "Governo de Rondônia reforça alerta sobre riscos de leptospirose em áreas alagadas",
+    "conteudo": "A leptospirose é uma doença infecciosa febril aguda transmitida pelo contato direto ou indireto com a urina de animais infectados, especialmente ratos. A bactéria Leptospira pode penetrar no organismo por meio de lesões na pele — inclusive quando a pele permanece submersa por longos períodos em água contaminada — ou pelas mucosas.\n\n\nCom o aumento de alagamentos, esse tipo de exposição se torna mais frequente, elevando o risco de infecção para a população. Diante desse cenário, o Governo de Rondônia, por meio da Agência Estadual de Vigilância em Saúde (Agevisa/RO), orienta os moradores a redobrarem os cuidados, especialmente em áreas consideradas de risco.\nA Agevisa destaca a importância de evitar contato com água potencialmente contaminada, adotar medidas de proteção e buscar atendimento médico ao surgimento de sintomas como febre, dor de cabeça e mal-estar após exposição a ambientes alagados.\n\nSegundo a coordenadora estadual da Leptospirose, Joana Neves, o período de incubação da doença varia de 1 a 30 dias, sendo mais comum o surgimento dos sinais e sintomas entre 7 e 14 dias após a exposição nas situações de risco. “Trata-se de uma doença com manifestações clínicas variadas, que podem ir de quadros leves até formas graves e, com comprometimento de diversos órgãos. Por isso, o reconhecimento precoce dos sintomas e a busca por atendimento de saúde são fundamentais”, explicou.\n\nVigilância\n\nPara o diretor-geral da Agevisa/RO, Gilvander Gregório de Lima, a ocorrência da leptospirose está relacionada às condições precárias de infraestrutura sanitária e à alta infestação de roedores infectados, cenário agravado por inundações. “A Agevisa/RO atua de forma integrada com os municípios, monitorando os casos, orientando as equipes de saúde e reforçando ações preventivas. Nosso trabalho é pautado em critérios técnicos e científicos, com foco na redução de riscos e na proteção da saúde coletiva”, afirmou.\n\nPeríodo chuvoso\n\nAs inundações favorecem a disseminação e a permanência da bactéria no ambiente, ampliando o risco de exposição e a possibilidade de aumento do número de casos, inclusive com risco de óbitos. Diante desse cenário, a Agevisa/RO reforça a importância de evitar contato com águas de alagamento sempre que possível e de procurar atendimento de saúde ao apresentar sintomas após exposição aos ambientes de risco.",
     "autor": {
       "nome": "Adriano Barros",
       "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
     }
   }
 ]
+
 
 
 
