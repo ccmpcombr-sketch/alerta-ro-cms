@@ -1,22 +1,26 @@
 [
   {
-    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/anuncios/Anuncio%2001.jpg",
-    "link": "https://www.facebook.com/AdrianoBarrosOficial/"
+    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/ANUNCIE%20AQUI.png",
+    "link": "https://wa.me/+5569993034364"
   },
   {
-    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/anuncios/Anuncio%2002.jpg",
+    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Se%20Voc%C3%AA%20Viu%20Seu%20Cliente%20Ver%C3%A1.jpeg",
+    "link": "https://wa.me/+5569993034364"
+  },
+  {
+    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Sua%20Propaganda%20Aqui.jpeg",
+    "link": "https://wa.me/+5569993034364"
+  },
+  {
+    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Instagran.png",
     "link": "https://www.instagram.com/tvccmp/"
   },
-  {
-    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/anuncios/Anuncio%2003.jpg",
-    "link": "https://www.facebook.com/AdrianoBarrosOficial/"
+   {
+    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Youtube.png",
+    "link": "https://www.youtube.com/@TVCCMPOFICIAL"
   },
   {
-    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/anuncios/Anuncio%2004.jpg",
-    "link": "https://www.instagram.com/tvccmp/"
-  },
-  {
-    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/anuncios/Anuncio%2005.jpg",
+    "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Facebook.png",
     "link": "https://www.facebook.com/AdrianoBarrosOficial/"
   }
 ]
