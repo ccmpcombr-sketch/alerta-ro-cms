@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Organização e integração do SUS em Rondônia são destacadas em reunião da CIB Itinerante, em Rolim de Moura",
+    "data": "18/02/2026",
+    "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/saude/SUS.webp",
+    "imagens": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/saude/SUS.webp"
+    ],
+    "videos": [],
+    "resumo": "Nos dias 12 e 13 de fevereiro, ocorre a 1ª Reunião da Comissão Intergestores Bipartite (CIB) Itinerante, realizada em Rolim de Moura. O encontro reúne representantes da Secretaria de Estado da Saúde (Sesau), Ministério da Saúde (MS), além de secretários municipais e equipes técnicas dos 52 municípios de Rondônia. A iniciativa tem como objetivo conhecer a realidade de cada região, organizar e integrar as demandas do Sistema Único de Saúde (SUS) no âmbito estadual e promover a articulação entre municípios e estado.",
+    "conteudo": "Entre as pautas debatidas, esteve a pactuação do repasse de recursos estaduais para o custeio do Serviço de Atendimento Móvel de Urgência (Samu) e das Unidades de Pronto Atendimento (UPAs) 24h, com transferência do Fundo Estadual de Saúde de Rondônia para os Fundos Municipais de Saúde dos municípios do estado, referente ao exercício de 2026.\n\nPara o governador de Rondônia, Marcos Rocha, a saúde é construída de forma integrada entre todos os entes federativos, em benefício da população. “O diálogo com os municípios e com o Ministério da Saúde é fundamental para fortalecer a rede pública de saúde”, ressaltou.\n\nO secretário da Sesau, Jefferson Rocha, salientou que por meio do diálogo tem sido possível ampliar o acesso da população à saúde especializada. “Diversos programas foram implantados e serviços fortalecidos para atender de forma qualificada a rede SUS”, pontuou. \n\nCOMISSÃO INTERGESTORES BIPARTITE\n\nA Comissão Intergestores Bipartite (CIB) é uma instância colegiada de pactuação consensual, articulação e negociação entre as duas esferas de governo. Ela é responsável pela regulamentação e operacionalização das políticas de saúde no âmbito do SUS em Rondônia, com o objetivo de garantir a universalidade, a integralidade e a equidade na atenção à saúde.",
+    "autor": {
+      "nome": "Adriano Barros",
+      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
+    }
+  },
+  {
     "titulo": "Governo de Rondônia reforça alerta sobre riscos de leptospirose em áreas alagadas",
     "data": "24/01/2026",
     "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/politica/leptospirose.jpg",
