@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Ciclista morre após grave acidente com motocicleta na Avenida Brasil",
+    "data": "18/02/2026",
+    "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/policia/Viatura.jpg",
+    "imagens": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/policia/MOTO%2001.PNG",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/policia/MOTO%2002.PNG",
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/policia/MOTO%2003.PNG"
+    ],
+    "videos": [],
+    "resumo": "Um grave acidente de trânsito registrado na Avenida Brasil, entre as ruas T-25 e T-26, resultou na morte de um ciclista na tarde desta quarta-feira.",
+    "conteudo": "De acordo com informações repassadas pela guarnição de trânsito, acionada via CIOP, o sinistro envolveu uma motocicleta HONDA/CG 160 FAN, de cor vermelha, conduzida por um jovem, e uma bicicleta da marca Cairu, também vermelha, conduzida por Jadir Pachu.\nSegundo relato do motociclista e informações colhidas no local, ambos trafegavam no mesmo sentido da via, em direção à T-26, pelo lado direito da avenida. Em determinado momento, o ciclista teria realizado uma conversão à esquerda, tentando atravessar para o outro lado da pista, quando acabou sendo atingido pela motocicleta. O condutor não conseguiu frear ou desviar a tempo, ocasionando a colisão.\nCom o impacto, o ciclista sofreu uma queda violenta, batendo fortemente a cabeça contra o solo, além de sofrer grave trauma abdominal provocado pelo guidão da motocicleta.\nUma equipe do SAMU foi acionada e realizou os primeiros socorros, porém a vítima não resistiu aos ferimentos e morreu ainda no local.\nA perícia técnica compareceu para os procedimentos de praxe. Após os trabalhos periciais, o local foi liberado e o tráfego restabelecido. A ocorrência foi registrada para as providências legais cabíveis.",
+    "autor": {
+      "nome": "Adriano Barros",
+      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
+    }
+  },
+  {
+    "titulo": "Morador reage com facão e é baleado na mão durante ataque a tiros na zona leste",
+    "data": "18/02/2026",
+    "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/policia/Viatura.jpg",
+    "imagens": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/policia/Viatura.jpg"
+    ],
+    "videos": [],
+    "resumo": "Um homem foi baleado na mão após um ataque a tiros em frente de casa, na noite desta terça-feira (17), no bairro Lagoa Azul, zona leste de Porto Velho.",
+    "conteudo": "Uma equipe do 5° BPM recebeu aviso pelo WhatsApp de que haveria um ataque na região e seguiu até o endereço.\n\nNo local, os policiais encontraram o morador, que contou que dois criminosos chegaram em uma motocicleta. Um deles desceu armado e partiu em direção a ele.\n\nA vítima disse que tentou fechar a porta e pegou um facão para se defender, mas o criminoso atirou cerca de 5 vezes. Um dos tiros atingiu a mão esquerda.\n\nApós o ataque, os policiais fizeram buscas nas redondezas e avisaram as demais equipes para tentar encontrar os criminosos.\nFerido, o homem procurou atendimento na UPA Leste e foi informado pela equipe médica que seria atendido e liberado.",
+    "autor": {
+      "nome": "Adriano Barros",
+      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
+    }
+  },
+  {
     "titulo": "Helicóptero cai e deixa três pessoas mortas no RJ",
     "data": "17/01/2026",
     "imagem": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/policia/aviao.webp",
