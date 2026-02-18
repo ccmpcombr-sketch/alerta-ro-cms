@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "ARRASTÃO: Adolescentes são detidos após furto de vários celulares no Carnaval",
+    "data": "18/02/2026",
+    "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/policia/adolescentes.jpg",
+    "imagens": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/policia/adolescentes.jpg"
+    ],
+    "videos": [],
+    "resumo": "Os outros telefones eles não disseram onde tinham escondido",
+    "conteudo": "Quatro adolescentes de 16 anos foram detidos acusados de arrastão de celulares no Carnaval na Avenida Pinheiro Machado, na madrugada desta quarta-feira (18) na região Central de Porto Velho (RO).\nOs acusados puxavam os celulares das vítimas e saíam correndo em meio a foliões, um passando o telefone ao outro para tentar despistar.\nUma das vítimas, um rapaz de 25 anos, chegou a entrar em luta corporal com um dos acusados e a Polícia Militar foi chamada.\nOs adolescentes logo foram abordados e estavam com um dos iPhones furtados.\nOs outros telefones eles não disseram onde tinham escondido. Os acusados foram levados ao Departamento de Flagrantes.\nPelo menos três vítimas reconheceram os acusados na delegacia.",
+    "autor": {
+      "nome": "Adriano Barros",
+      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
+    }
+  },
+  {
     "titulo": "Ciclista morre após grave acidente com motocicleta na Avenida Brasil",
     "data": "18/02/2026",
     "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/policia/MOTO%2001.PNG",
@@ -32,4 +47,3 @@
     }
   }
 ]
-
