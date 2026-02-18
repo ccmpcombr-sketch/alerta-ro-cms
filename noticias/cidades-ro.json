@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "TORÓ: Quinta será de calor intenso e pancadas isoladas em RO",
+    "data": "18/02/2026",
+    "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/cidades-ro/chuva.jpeg",
+    "imagens": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/cidades-ro/chuva.jpeg"
+    ],
+    "videos": [],
+    "resumo": "Tempo segue quente e instável em todas as regiões, aponta o Censipam",
+    "conteudo": "A quinta-feira (19) será marcada por sol forte, temperaturas elevadas e possibilidade de pancadas de chuva em Rondônia, conforme previsão do Centro Gestor e Operacional do Sistema de Proteção da Amazônia (Censipam). O calor combinado com a alta umidade mantém o tempo instável, principalmente entre a tarde e a noite.\nEm Porto Velho e no Baixo Madeira, o dia começa com céu parcialmente nublado e sensação de abafamento. Ao longo da tarde, há previsão de chuva rápida e isolada. As temperaturas variam entre 24 °C e 34 °C.\nNo Vale do Jamari, incluindo Ariquemes, o sol aparece entre nuvens e não se descarta a ocorrência de pancadas acompanhadas de trovoadas. Os termômetros devem oscilar entre 23 °C e 35 °C.\nJá no Vale do Guaporé e Cone Sul, o calor predomina durante o dia, com aumento de nebulosidade e chance de chuva localizada. Em Vilhena, a mínima prevista é de 22 °C e a máxima pode atingir 32 °C.\nNa região da Ponta do Abunã e no Vale do Mamoré, o padrão se repete: tempo quente, períodos de sol e possibilidade de chuva passageira. Em Guajará-Mirim, as temperaturas ficam entre 24 °C e 33 °C.\nA umidade relativa do ar segue elevada em todo o estado, mantendo a sensação de mormaço típica do período chuvoso na Amazônia.",
+    "autor": {
+      "nome": "Adriano Barros",
+      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
+    }
+  },
+  {
     "titulo": "Porto Velho: 111 anos de história, com trabalho e desenvolvimento",
     "data": "24/01/2026",
     "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/cidades-ro/Palacio-Porto-Velho.jpg",
