@@ -1,10 +1,27 @@
 [
   {
+    "titulo": "Tchouaméni diz que Prestianni alegou ter ofendido Vini Jr. de outra forma: \"Viado\"",
+    "data": "18/02/2026",
+    "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/esportes/vini%20jr.PNG",
+    "imagens": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/esportes/vini%20jr.PNG"
+    ],
+    "videos": [
+      "https://ge.globo.com/video/vini-jr-denuncia-racismo-e-arbitro-aciona-protocolo-apos-golaco-contra-benfica-14356287.ghtml"
+    ],
+    "resumo": "Volante francês cobra providências após denúncia do atacante brasileiro",
+    "conteudo": "O volante Tchouaméni afirmou que Prestianni alegou ter chamado Vinícius Júnior de “viado”, e não de “macaco”, durante a vitória do Real Madrid sobre o Benfica, por 1 a 0, pela Champions League. Segundo o francês, que é companheiro de Vini Jr. no Real, o atacante brasileiro relatou que foi alvo de ofensa racista, o que gerou indignação no time merengue ainda em campo.\n\nTchouaméni, porém, afirmou que o jogador do Benfica teria dito que ofendeu o brasileiro com um termo homofóbico, e não racista. A declaração foi dada na zona mista após a partida e reproduzida por jornais europeus.\n- Isto não pode acontecer. O Vinícius nos disse que o rapaz lhe chamou de macaco, com a camisa por cima da boca. Depois, o rapaz (Prestianni) garantiu que não disse nada disso, que o chamou de \"viado\". Conversamos como equipe e o Vini disse que tínhamos que continuar jogando. Não sei o que dizer. Vamos conversar. Isso não pode acontecer - declarou.\n",
+    "autor": {
+      "nome": "Adriano Barros",
+      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
+    }
+  },
+  {
     "titulo": "Federação altera datas e horários de quatro jogos do Rondoniense",
     "data": "13/02/2026",
-    "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/esportes/Capturar.PNG",
+    "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/esportes/ginasio%20aluizio%20ferreira.PNG",
     "imagens": [
-      "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/esportes/Capturar.PNG"
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/esportes/ginasio%20aluizio%20ferreira.PNG"
     ],
     "videos": [],
     "resumo": "A tabela do Campeonato Rondoniense 2026 passou por novos ajustes e o torcedor precisa ficar atento. A Federação confirmou mudanças em quatro partidas, com alterações de horário na capital e também troca de data e horário no interior.",
@@ -15,7 +32,6 @@
     }
   }
 ]
-
 
 
 
