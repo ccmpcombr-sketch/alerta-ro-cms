@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Moraes arquiva inquérito contra Carla Zambelli por obstrução",
+    "data": "19/02/2026",
+    "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/politica/carla-zambelli.jpg",
+    "imagens": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/politica/carla-zambelli.jpg"
+    ],
+    "videos": [],
+    "resumo": "Ministro acolheu parecer da Procuradoria-Geral da República que apontou falta de provas suficientes sobre suposta coação e interferência em investigações.",
+    "conteudo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou nesta quarta-feira (18) o arquivamento da investigação contra a ex-deputada Carla Zambelli (PL-SP). O inquérito apurava os crimes de coação no curso do processo e obstrução de justiça.\n\n\nA apuração havia sido iniciada em junho do ano passado, motivada por declarações da ex-parlamentar em entrevista. Na ocasião, ela afirmou que pretendia pedir asilo político aos Estados Unidos e mencionou a adoção de condutas semelhantes às de outros aliados políticos.\n\nA decisão de Moraes seguiu o entendimento da Procuradoria-Geral da República (PGR), que concluiu não haver elementos probatórios mínimos para sustentar uma denúncia formal. Com a manifestação favorável do órgão acusador, o ministro confirmou o encerramento do caso.\n\nApesar deste arquivamento, Zambelli segue no centro de outros processos judiciais. Ela foi condenada pelo STF a 10 anos de prisão por ser a autora intelectual da invasão aos sistemas do Conselho Nacional de Justiça (CNJ), crime executado pelo hacker Walter Delgatti.\n\nAtualmente, a ex-deputada aguarda uma definição da Justiça italiana sobre seu processo de extradição. Ela foi presa em Roma em julho do ano passado, após fugir do Brasil para evitar o cumprimento do mandado de prisão expedido pela Suprema Corte brasileira.\n\nA audiência final na Itália, que decidirá se a ex-parlamentar será enviada de volta ao Brasil, deve ocorrer nas próximas semanas. Caso a extradição seja confirmada, ela deverá cumprir a pena pela condenação relacionada ao hackeamento do sistema judiciário.",
+    "autor": {
+      "nome": "Adriano Barros",
+      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
+    }
+  },
+  {
     "titulo": "Circuito Arrais Rondônia fortalece segurança na pesca esportiva com curso gratuito em Pimenta Bueno",
     "data": "19/02/2026",
     "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/politica/Curso-Arraes.webp",
