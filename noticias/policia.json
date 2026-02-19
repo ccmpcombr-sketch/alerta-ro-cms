@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Mulher é presa com droga no estômago em presídio na capital",
+    "data": " 19/02/2026",
+    "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/policia/detenta.webp",
+    "imagens": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/policia/detenta.webp"
+    ],
+    "videos": [],
+    "resumo": "Suspeita foi flagrada por equipamentos de segurança durante o horário de visita na Penitenciária 603 e precisou ser encaminhada ao Hospital João Paulo II.",
+    "conteudo": "Uma mulher foi presa em flagrante na manhã desta quinta-feira (19) ao tentar entrar com entorpecentes na Penitenciária Jorge Thiago Aguiar Afonso (603), localizada na zona rural de Porto Velho. A droga estava escondida dentro do próprio corpo da suspeita, sendo detectada durante os procedimentos de revista.\n\n\nDe acordo com as primeiras informações, a mulher passava pelo sistema de inspeção eletrônica para realizar uma visita quando os aparelhos sinalizaram a presença de objetos estranhos. Ao ser questionada, foi constatado que ela havia engolido porções de droga para tentar burlar a vigilância dos policiais penais.\n\nDevido aos riscos de as embalagens se romperem no trato digestivo, o que poderia causar uma overdose fatal, a suspeita foi imediatamente encaminhada sob custódia ao Hospital João Paulo II. Na unidade de saúde, ela deve passar por procedimentos médicos para expelir as substâncias de forma segura.\n\nApós a alta hospitalar, a mulher será conduzida à Central de Polícia, onde será autuada pelo crime de tráfico de drogas com o agravante de ter sido cometido em estabelecimento prisional. A direção do presídio deverá investigar qual detento receberia o entorpecente e aplicar as sanções disciplinares previstas em lei.",
+    "autor": {
+      "nome": "Adriano Barros",
+      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
+    }
+  },
+  {
+    "titulo": "Segurança detém homem por furto em loja no centro da capital",
+    "data": " 19/02/2026",
+    "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/policia/detento.webp",
+    "imagens": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/policia/detento.webp"
+    ],
+    "videos": [],
+    "resumo": "Um suspeito de 40 anos foi preso nesta quinta-feira após ser flagrado furtando uma caixa de som em um estabelecimento comercial na Avenida Sete de Setembro.",
+    "conteudo": "No início da tarde desta quinta-feira, 19, um homem de 40 anos foi detido após cometer furto na loja Shopping China. O estabelecimento fica localizado na Avenida Sete de Setembro, na região central de Porto Velho.\n\n\nA Polícia Militar foi acionada e encontrou o suspeito já contido pelo segurança da loja. Para impedir a fuga até a chegada da guarnição, o funcionário utilizou uma presilha plástica para imobilizar o indivíduo no local.\n\nSegundo o relato da testemunha, o homem entrou na loja com uma sacola azul no ombro. Ele retirou uma caixa de som portátil da marca Xtrad de uma prateleira e a escondeu dentro da bolsa antes de sair.\n\nO suspeito aproveitou o movimento de clientes no interior do comércio para tentar sair sem efetuar o pagamento. Ele foi abordado e detido pelo segurança já na parte externa do estabelecimento comercial.\n\nConforme o registro policial, o homem resistiu à abordagem, sendo necessário o uso moderado da força física para contê-lo. A ação resultou em leves lesões no conduzido, que tentava se desvencilhar da segurança privada.\n\nA equipe policial deu voz de prisão ao suspeito e informou seus direitos constitucionais. Ele foi conduzido à Central de Polícia para que a autoridade policial competente tome as providências legais cabíveis ao caso.\n\nO uso de algemas foi necessário durante o transporte para garantir a segurança da guarnição e do próprio preso. O material furtado foi recuperado e apresentado juntamente com o envolvido na delegacia.",
+    "autor": {
+      "nome": "Adriano Barros",
+      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
+    }
+  },
+  {
     "titulo": "ARRASTÃO: Adolescentes são detidos após furto de vários celulares no Carnaval",
     "data": "18/02/2026",
     "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/policia/adolescentes.jpg",
