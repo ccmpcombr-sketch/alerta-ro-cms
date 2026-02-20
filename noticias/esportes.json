@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Ji-Paraná e Guaporé avançam na Copa do Brasil e garantem premiação milionária",
+    "data": "20/02/2026",
+    "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/esportes/ji-parana-e-guapore.webp",
+    "imagens": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/esportes/ji-parana-e-guapore.webp"
+    ],
+    "videos": [],
+    "resumo": "Clubes rondonienses superam adversários na primeira fase e levam R$ 830 mil cada; time de Rolim de Moura conquista classificação histórica nos pênaltis\n",
+    "conteudo": "O futebol de Rondônia teve uma noite de gala na quarta-feira (18) com as classificações de Ji-Paraná e Guaporé para a segunda fase da Copa do Brasil. Além da vaga esportiva, os clubes garantiram uma cota de R$ 830 mil pagos pela CBF, valor fundamental para o planejamento financeiro das equipes na temporada.\n\nNo Estádio Biancão, o Ji-Paraná fez valer o mando de campo e venceu o Pantanal por 2 a 0. Com o apoio da torcida, o Galo da BR dominou as ações e contou com uma atuação segura do goleiro Evandro, que segurou a pressão adversária no segundo tempo, garantindo a manutenção da sequência sem sofrer gols.\n\nJá em Rio Branco, na Arena da Floresta, o Guaporé de Rolim de Moura escreveu um capítulo histórico ao eliminar o Galvez. Após um empate por 1 a 1 no tempo normal, a decisão foi para os pênaltis, onde brilhou a estrela do goleiro Luiz Henrique, que defendeu duas cobranças e garantiu a vitória.\n\nO próximo desafio do Guaporé será contra o Juventude, no dia 5 de março, no Rio Grande do Sul. Antes disso, o time volta as atenções para o Campeonato Rondoniense, onde enfrenta o Genus no domingo (22). O Ji-Paraná também aguarda a definição de seu próximo adversário para seguir o sonho na competição nacional.\n\nFonte: News Rondônia",
+    "autor": {
+      "nome": "Adriano Barros",
+      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
+    }
+  },
+  {
+    "titulo": "Coronel Chrisóstomo: apoio ao esporte em PVH",
+    "data": "20/02/2026",
+    "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/esportes/Coronel-Chrisostomo.webp",
+    "imagens": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/esportes/Coronel-Chrisostomo.webp"
+    ],
+    "videos": [],
+    "resumo": "Deputado visita projeto Tribo de Zion na Zona Leste de Porto Velho e reforça apoio ao esporte como instrumento de inclusão social.\n",
+    "conteudo": "O deputado federal Coronel Chrisostomo visitou o projeto social Tribo de Zion, na unidade do bairro Ulisses, na Zona Leste de Porto Velho. A agenda teve como foco acompanhar de perto as atividades esportivas desenvolvidas com crianças e adolescentes e reafirmar o apoio ao esporte nas comunidades.\n\nDurante a visita ao projeto Tribo de Zion, o parlamentar conversou com alunos, professores e responsáveis pela iniciativa. Ele acompanhou treinos de jiu-jitsu e ouviu relatos sobre os desafios enfrentados pelas famílias atendidas.\n\nSegundo a coordenação, a presença do deputado simbolizou aproximação com a realidade da comunidade. A responsável pelo projeto destacou que Coronel Chrisóstomo buscou conhecer as artes marciais praticadas no local e entender o cotidiano dos jovens atletas da periferia. Ela também ressaltou que o parlamentar já apoia o atleta Yarley, campeão em nível nacional.\n\nO projeto Tribo de Zion atende crianças e adolescentes em situação de vulnerabilidade social, oferecendo atividades esportivas e acompanhamento que contribuem para disciplina, autoestima e convivência comunitária.\n\nAo final da agenda, Coronel Chrisóstomo reafirmou o compromisso de manter diálogo com as comunidades da Zona Leste e apoiar iniciativas que utilizem o esporte como ferramenta de transformação social.\n\nFonte: Redação",
+    "autor": {
+      "nome": "Adriano Barros",
+      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/autor.jpeg"
+    }
+  },
+  {
     "titulo": "Tchouaméni diz que Prestianni alegou ter ofendido Vini Jr. de outra forma: \"Viado\"",
     "data": "18/02/2026",
     "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/alerta-ro-cms/refs/heads/main/imagens/esportes/vini%20jr.PNG",
@@ -32,7 +62,3 @@
     }
   }
 ]
-
-
-
-
